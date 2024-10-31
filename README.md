@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/Student1-45244054/PartsUnlimited/_apis/build/status%2FMikesdevop.ContosoAir?branchName=master)](https://dev.azure.com/Student1-45244054/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
