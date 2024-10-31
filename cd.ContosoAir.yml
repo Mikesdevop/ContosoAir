@@ -16,7 +16,7 @@ resources:
        - master
 
 pool:
-  pool: 'ubuntu latest' 
+  name: default 
 
 steps:
 - task: DownloadPipelineArtifact@2
